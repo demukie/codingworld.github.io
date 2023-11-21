@@ -1,0 +1,28 @@
+body {
+    background-color: #285fad;
+    text-align: center;
+  }
+  p {
+    color: black;
+  }
+  h1 {
+    color: #96c2ff;
+    text-shadow: -2px 2px #1a7fa6;
+    font-weight: bold;
+    
+  
+  }
+  
+  h3, h2 {
+    text-shadow: -1px 1px #9f9c9c;
+  
+  }
+  
+  a {
+    display: inline-block;
+  padding: 7px 13px;
+  text-decoration: none;
+  background-color: #3498db; 
+  color: #96c2ff;
+  border-radius: 10px;  
+  }
