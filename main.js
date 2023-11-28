@@ -1,1 +1,1 @@
-alert('Are you sure you ar ready for this amazing website? - Demir')
+alert('NO GALATASARAY FANS ALLOWED!!!')
