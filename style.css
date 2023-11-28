@@ -1,5 +1,6 @@
 body {
   font-family: 'Arial', sans-serif;
+  width: 100%;
   margin: 0;
   padding: 0;
   background-color: #f4f4f4;
@@ -54,4 +55,13 @@ button {
   width: 77px;
   height: 37px;
   font-size: 12.5px;
+}
+
+@media only screen and (max-width: 600px) {
+    /* Styles for screens smaller than 600px */
+}
+
+img {
+    max-width: 100%;
+    height: auto;
 }
