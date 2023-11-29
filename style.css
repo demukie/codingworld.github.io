@@ -52,16 +52,10 @@ footer {
 button {
   cursor: pointer;
   border: 2.3px solid green;
-  border-radius: 5px;
-  min-width: 72px; /* Set a minimum width */
-  height: 32px;
-  font-size: 14px;
+  border-radius: 12.5px;
   background-color: #39A642;
-  color: white;
-  padding: 0 10px;
-  display: inline-flex;
-  align-items: center;
-  text-align: center;
+  
+
 }
 
 
