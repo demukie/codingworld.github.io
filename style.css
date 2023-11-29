@@ -66,17 +66,17 @@ button {
   
 button {
   display: inline-block;
-  padding: 8px 20px;
+  
   text-align: center;
   text-decoration: none;
   cursor: pointer;
   transition: background-color 0.3s, color 0.3s;
-  border: 2.3px solid #3BB143;
+  border: 2.3px solid dark-green;
   border-radius: 5px;
   width: 72px;
   height: 32px;
   font-size: 14px;
-  background-color: #3BB143;
+  background-color: #39A642;
   text-color: white;
   
 }
