@@ -65,13 +65,9 @@ button {
   }
   
 button {
-  display: inline-block;
   
-  text-align: center;
-  text-decoration: none;
   cursor: pointer;
-  transition: background-color 0.3s, color 0.3s;
-  border: 2.3px solid dark-green;
+  border: 2.3px solid green;
   border-radius: 5px;
   width: 72px;
   height: 32px;
