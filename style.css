@@ -52,9 +52,10 @@ footer {
 button {
   cursor: pointer;
   border: 2.3px solid green;
-  border-radius: 12.5px;
+  border-radius: 8px;
   background-color: #39A642;
-  
+  width: 72;
+  height: 32;
 
 }
 
