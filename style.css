@@ -71,12 +71,13 @@ button {
   text-decoration: none;
   cursor: pointer;
   transition: background-color 0.3s, color 0.3s;
-  border: 2.3px solid green;
+  border: 2.3px solid #3BB143;
   border-radius: 5px;
   width: 72px;
   height: 32px;
   font-size: 14px;
-  background-color: #F2FAE9;
+  background-color: #3BB143;
+  
   
 }
 
