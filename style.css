@@ -53,15 +53,15 @@ button {
   cursor: pointer;
   border: 2.3px solid green;
   border-radius: 5px;
-  width: auto; /* Remove fixed width */
+  min-width: 72px; /* Set a minimum width */
   height: 32px;
   font-size: 14px;
   background-color: #39A642;
   color: white;
-  padding: 0; /* Remove padding */
+  padding: 0 10px;
   display: inline-flex;
   align-items: center;
-  text-align: center; /* Center the text */
+  text-align: center;
 }
 
 
