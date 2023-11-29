@@ -58,6 +58,7 @@ button {
   height: 32px;
   font-size: 14px;
   background-color: #F2FAE9;
+  margin: 0 auto; /* Center the button horizontally */
 }
 
 @media only screen and (max-width: 600px) {
