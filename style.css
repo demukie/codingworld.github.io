@@ -54,8 +54,8 @@ button {
   border: 2.3px solid green;
   border-radius: 8px;
   background-color: #39A642;
-  width: 92px;
-  height: 42px;
+  width: 72px;
+  height: 32px;
   color: white;
   font-size: 14px;
 }
@@ -72,4 +72,15 @@ img {
 
 p, h1, h2, h3, h4, h5, h6 {
   text-align: center;
+}
+
+.longbutton {
+  cursor: pointer;
+  border: 2.3px solid green;
+  border-radius: 8px;
+  background-color: #39A642;
+  width: 92px;
+  height: 42px;
+  color: white;
+  font-size: 14px;
 }
