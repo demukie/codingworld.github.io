@@ -53,14 +53,15 @@ button {
   cursor: pointer;
   border: 2.3px solid green;
   border-radius: 5px;
-  width: auto; /* Set width to 'auto' to fit the content */
+  width: 150px; /* Set a fixed width */
   height: 32px;
   font-size: 14px;
   background-color: #39A642;
   color: white;
-  padding: 0 10px; /* Add padding to create space around the text */
+  padding: 0 10px;
+  display: inline-flex;
+  align-items: center;
 }
-  
 
 
 @media only screen and (max-width: 600px) {
