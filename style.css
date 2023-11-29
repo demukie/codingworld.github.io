@@ -49,16 +49,35 @@ footer {
       font-size: 14px;
   }
 
-
 button {
+    display: inline-block;
+    padding: 8px 20px;
+    font-size: 17px;
+    
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    border: 2px solid #7237fc;
+    border-radius: 13px;
+    color: #ffffff;
+    background-color:#7237fc;
+    transition: background-color 0.3s, color 0.3s;
+  }
+  
+button {
+  display: inline-block;
+  padding: 8px 20px;
   text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  transition: background-color 0.3s, color 0.3s;
   border: 2.3px solid green;
   border-radius: 5px;
   width: 72px;
   height: 32px;
   font-size: 14px;
   background-color: #F2FAE9;
-  margin: 0 auto; /* Center the button horizontally */
+  
 }
 
 @media only screen and (max-width: 600px) {
