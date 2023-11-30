@@ -66,8 +66,10 @@ button {
 }
 
 img {
-    max-width: 100%;
-    height: auto;
+  max-width: 100%;
+  height: auto;
+  border: 2px double green;
+  border-radius: 15px;
 }
 
 p, h1, h2, h3, h4, h5, h6 {
