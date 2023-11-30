@@ -87,25 +87,3 @@ p, h1, h2, h3, h4, h5, h6 {
   font-size: 14px;
 }
 
-.search-container {
-    max-width: 300px;
-    margin: 50px auto;
-}
-
-#searchInput {
-    width: 100%;
-    padding: 10px;
-    font-size: 16px;
-}
-
-#searchResults {
-    list-style-type: none;
-    padding: 0;
-    margin: 10px 0;
-}
-
-#searchResults li {
-    padding: 8px;
-    border: 1px solid #ccc;
-    background-color: #f9f9f9;
-}
